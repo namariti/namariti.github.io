@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://namariti.github.io/sitemap/sitemap_index.namariti
+Sitemap: https://namariti.github.io/kpr/sitemap_index.namariti
+Sitemap: https://namariti.github.io/dIA/sitemap_index.namariti
+Sitemap: https://namariti.github.io/AbH/sitemap_index.namariti
+Sitemap: https://namariti.github.io/taT/sitemap_index.namariti
+Sitemap: https://namariti.github.io/uIF/sitemap_index.namariti
+Sitemap: https://namariti.github.io/KnN/sitemap_index.namariti
+Sitemap: https://namariti.github.io/kCL/sitemap_index.namariti
+Sitemap: https://namariti.github.io/NmP/sitemap_index.namariti
+Sitemap: https://namariti.github.io/fUM/sitemap_index.namariti
+Sitemap: https://namariti.github.io/kqn/sitemap_index.namariti
+Sitemap: https://namariti.github.io/Are/sitemap_index.namariti
+Sitemap: https://namariti.github.io/vlx/sitemap_index.namariti
+Sitemap: https://namariti.github.io/Ygd/sitemap_index.namariti
+Sitemap: https://namariti.github.io/Zte/sitemap_index.namariti
+Sitemap: https://namariti.github.io/PNH/sitemap_index.namariti
+Sitemap: https://namariti.github.io/lKh/sitemap_index.namariti
+Sitemap: https://namariti.github.io/TGF/sitemap_index.namariti
+Sitemap: https://namariti.github.io/WOc/sitemap_index.namariti
+Sitemap: https://namariti.github.io/AOT/sitemap_index.namariti
+Sitemap: https://namariti.github.io/ORp/sitemap_index.namariti
